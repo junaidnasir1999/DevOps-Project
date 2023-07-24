@@ -1,0 +1,72 @@
+For linux Installation:
+sudo apt install git
+
+To configure for the first time:
+git config --global user.name ""
+
+to check the user 
+vi ~/.gitconfig or git congih --list
+
+For the first step 
+
+git init (to intialize the repositry)
+git add . (staging) (the dot means we are staging all the files which currently present in the directory)
+
+git status (to check what we have to commit the file)
+git commit -m "" (to commit the file along with -m message)
+
+Execution step:
+to push & pull
+For push:
+first to give remote origin "url" 
+git remote add origin "url"
+git push origin main or master (depending your current git repositry name)
+
+git clone url "" 
+git pull origin main 
+git log (what you have done in your previous commits changes) 
+git checkout -b (Create a new branch and switch to it)
+git branch (to show all branches)
+git branch -d (dlt branch)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problems facing while pushing the code on github in linux (for begineers)
+
+
+
+
+
+
+
+
+
+
+
+

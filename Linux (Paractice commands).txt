@@ -1,0 +1,16 @@
+mkdir folder name (to make folder )
+cd -- (to move on other directory)
+sudo useradd <username> (for adding user)
+sudo passwd <username> (to setup psswd ont that username)
+ls (to show all list of item which is in folder)
+touch-- (to create a new file)
+gedit (to go and edit that file)
+ip ad show
+cat file name (to show what file source in that)
+sed 's/name/fullname/' test.txt (to edit the perv one text with other)
+diff test.txt test1.txt (this cmnd use to show what type of diff text in that)
+history 10 (what you have use in perv one)
+ssh-keygen -t rsa (public and private key)
+pwd (to shwo where you stand on which directory and folder)
+
+
